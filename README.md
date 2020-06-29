@@ -1,2 +1,2 @@
-# Djikstra-MapReduce
-Implementation of Djikstra's shortest path algorithm using MapReduce
+# Dijkstra-MapReduce
+Implementation of Dijkstra's shortest path algorithm using MapReduce
